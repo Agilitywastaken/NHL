@@ -1,2 +1,4 @@
-# Blog
-A Blog website
+# DISCORD NHL STAT BOT
+Stat bot for discord
+
+
